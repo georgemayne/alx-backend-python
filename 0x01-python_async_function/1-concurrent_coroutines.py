@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """Asynchronous coroutine that spawns
 wait_random n times with the specified max_delay.
